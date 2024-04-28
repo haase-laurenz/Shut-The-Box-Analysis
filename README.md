@@ -49,8 +49,9 @@ I will implement and compare several strategies, such as:
 #### Lowest Value ** - Player flips down a combination with the lowest number possible (e.g 1/2 is prefered over 3)
 ![Result](screenshots/lowestRes1.png)
 ![Result](screenshots/lowestRes2.png)
-#### Random Moves** - Player flips down a random possible combination
+#### Optimzied Solution** - Finding a better option than "Highest Value"
 Coming Soon
+
 
 
 
