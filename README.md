@@ -40,13 +40,13 @@ I will implement and compare several strategies, such as:
 
 ## Results
 
-#### Random Selection** - Player flips down a random possible combination
+#### Random Selection - Player flips down a random possible combination
 ![Result](screenshots/randomRes1.png)
 ![Result](screenshots/randomRes2.png)
-#### Highest Value (greedy)** - Player flips down a combination with the highest number possible(e.g 9 is prefered over 4/5)
+#### Highest Value (greedy) - Player flips down a combination with the highest number possible(e.g 9 is prefered over 4/5)
 ![Result](screenshots/highestRes1.png)
 ![Result](screenshots/highestRes2.png)
-#### Lowest Value ** - Player flips down a combination with the lowest number possible (e.g 1/2 is prefered over 3)
+#### Lowest Value - Player flips down a combination with the lowest number possible (e.g 1/2 is prefered over 3)
 ![Result](screenshots/lowestRes1.png)
 ![Result](screenshots/lowestRes2.png)
 #### Optimzied Solution** - Finding a better option than "Highest Value"
