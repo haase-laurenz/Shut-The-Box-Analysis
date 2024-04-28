@@ -38,4 +38,8 @@ I will implement and compare several strategies, such as:
 - Record the scores achieved by each strategy in each game.
 - Analyze the distribution of scores and compare the performance of different strategies.
 
+**Results**
+![Result](screenshots/image.png)
+
+
 
