@@ -13,7 +13,7 @@ The goal of "Shut the Box" is to flip down all numbers from 1 to 12.
 **Game Rules:**  
 1. At the start of the game, all numbers on the game board are flipped up.
 2. A player rolls both dice and adds the numbers rolled.
-3. The player then selects any combinations of flipped down numbers on the game board whose sum equals the sum of the dice rolls.
+3. The player then selects any combinations of flipped down numbers on the game board whose sum equals the sum of the dice rolls (**FOR THIS SIMULATION MAX OF 2**).
 4. If a player cannot find any combinations of flipped down numbers that equal the sum of the dice rolls, their turn ends.
 5. The player repeats steps 2-4 until all numbers on the game board have been flipped down or no more moves are possible.
 6. If all numbers on the game board have been flipped down, the player wins. Otherwise, the sum of the remaining flipped up numbers is counted as their score.
@@ -38,8 +38,18 @@ I will implement and compare several strategies, such as:
 - Record the scores achieved by each strategy in each game.
 - Analyze the distribution of scores and compare the performance of different strategies.
 
-**Results**
+## Results
+
+#### Random Selection** - Player flips down a random possible combination
+Coming Soon
+#### Highest Value (greedy)** - Player flips down a combination with the highest number possible(e.g 9 is prefered over 4/5)
 ![Result](screenshots/image.png)
+![Result](screenshots/shutTheBoxWinRate.png)
+#### Lowest Value ** - Player flips down a combination with the lowest number possible (e.g 1/2 is prefered over 3)
+Coming Soon
+#### Random Moves** - Player flips down a random possible combination
+Coming Soon
+
 
 
 
